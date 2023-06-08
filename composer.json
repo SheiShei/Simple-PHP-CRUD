@@ -1,0 +1,12 @@
+{
+    "name": "shei/php-posts-crud",
+    "authors": [
+        {
+            "name": "Shei",
+            "email": "s.cmanawit@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
